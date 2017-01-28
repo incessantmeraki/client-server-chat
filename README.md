@@ -2,6 +2,10 @@
 
 Simple client server chat application
 
+## Architecture
+
+  Client1<---->Server<--->Client2
+  
 ## Usage
 
 #### Install
